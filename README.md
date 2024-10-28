@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br><br>📚 I'm currently learning Advanced security tactics and strategies for purple teaming.<br><br>🎯 Goals: To master both offensive and defensive security skills to bridge the gap between red and blue teams."<br><br>🎲 Fun fact: I can probably talk about videogames, movies, reading, and football for hours.</p>
+<p align="left">✨ Creating bugs since 2021<br><br>📚 I'm currently learning Advanced security tactics and strategies for purple teaming.<br><br>🎯 Goals: To master both offensive and defensive security skills to bridge the gap between red and blue teams.<br><br>🎲 Fun fact: I can probably talk about videogames, movies, reading, and football for hours.</p>
 
 ###
 
