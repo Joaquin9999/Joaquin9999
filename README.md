@@ -13,7 +13,7 @@
 <h2 align="left">Tech Stack</h2>
 
 <img
-  src="https://github-stack-sphere.vercel.app/stack.svg?icons=linux,ubuntu,fedora,kalilinux,parrotsecurity,raspberrypi,gnubash,gnome,python,javascript,java,burpsuite,nmap,wireshark,splunk,snort,suricata,grafana,jira,hackthebox,tryhackme,docker,git,github"
+  src="https://github-stack-sphere.vercel.app/stack.svg?icons=linux,ubuntu,fedora,kalilinux,parrotsecurity,raspberrypi,gnubash,gnome,python,javascript,java,burpsuite,nmap,wireshark,snort,suricata,hackthebox,tryhackme,docker,git,github"
   width="500"
   alt="Cybersecurity / Blue Team stack"
 />
